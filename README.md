@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushal122
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently pursuing M.Tech. degree in CSIS.
+- 🌱I am working as Software Developer.
 -
 -
 
